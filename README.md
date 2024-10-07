@@ -5,6 +5,7 @@
 The **Key Logger Application** is a Python-based project that records and logs keyboard activities, including key presses and releases. It is built using the `pynput` library to capture keyboard input events and store them in both text and JSON formats. This application is useful for tasks such as activity monitoring, auditing, or research on typing patterns. However, it is important to emphasize that the tool must be used ethically and legally, ensuring that consent is obtained from users whose keystrokes are being logged.
 
 ## Features
+
 - Logs key presses, key holds, and key releases.
 - Stores logs in two formats: plain text (`logs.txt`) and JSON (`logs.json`).
 - Compatible with both **Windows** and **Kali Linux** operating systems.
